@@ -17,7 +17,7 @@ int main(){
     }else if(user==1 && computer ==4){
         std::cout<<"COMPUTER WON!";
     }else if(user==1 && computer ==5){
-        std::cout<<"YOU WON!";
+        std::cout<<"YOU WON!!!";
     }else if(user==2 && computer ==1){
         std::cout<<"YOU WON!";
     }else if(user==2 && computer==3){
